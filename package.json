@@ -45,7 +45,6 @@
     "webpack": "~4.39.1",
     "webpack-bundle-tracker": "~0.3.0",
     "webpack-dev-server": "~3.8.0",
-    "webpack-spritesmith": "~1.0.1",
     "whatwg-fetch": "~3.0.0"
   },
   "devDependencies": {
