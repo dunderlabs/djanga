@@ -28,7 +28,7 @@
     "jquery": "~3.4.1",
     "lodash": "~4.17.15",
     "marked": "~0.7.0",
-    "node-sass": "~4.12.0",
+    "node-sass": "~7.0.0",
     "popper.js": "~1.15.0",
     "postcss": "~7.0.17",
     "postcss-loader": "~3.0.0",
